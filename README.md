@@ -1,6 +1,6 @@
 # Tech Company (ENIAC) Discount Analysis
 
-## 🎯 Project Overview
+## Project Overview
 
 ENIAC, which sells tech products, is facing a question on how to approach discounting of its products. Board members are torn between reducing discounts and focusing on product quality, while the marketing lead believes discounts help retain and enhance customer acquisition.
 
@@ -10,7 +10,7 @@ Using Python and other libraries, the analysis indicates that **discounts do not
 
 ---
 
-## 📊 Dataset & Sources
+## Dataset & Sources
 
 ENIAC provided datasets on:
 
@@ -148,18 +148,6 @@ Based on the analysis, ENIAC could consider:
 
 ---
 
-## 📁 Project Structure
-
-```text
-.
-├── 1_Data_Exploration.ipynb
-├── 2_Data_Cleaning.ipynb
-├── 3_Data_Quality.ipynb
-├── 4_Data_Analysis.ipynb
-├── 5_Presentation.pdf
-└── README.md
-
-```
 ## 📧 Contact
 berthamweza@gmail.com
 [LinkedIn](https://www.linkedin.com/in/bertha-lwakatare/)
