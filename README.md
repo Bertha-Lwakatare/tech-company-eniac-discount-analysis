@@ -110,9 +110,8 @@ rather than assuming that larger discounts automatically result in higher revenu
 
 ### Black Friday Performance
 
-![Black Friday Performance](images/seasonality.png)
+![Black Friday Performance](seasonality.png)
 
-**Insight:** Despite relatively low discounts on Black Friday, revenue and order counts reached their peak, suggesting that factors such as seasonality also had a strong influence on revenue.
 
 ---
 
